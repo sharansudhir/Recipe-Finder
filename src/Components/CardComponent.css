@@ -10,3 +10,8 @@
 .card-body {
   height: 50px;
 }
+
+.card-body > h4 {
+  font-size: 20px;
+  font-family: sans-serif;
+}
