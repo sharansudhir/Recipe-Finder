@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.search-bar {
+  width: 30%;
+  height: 35px;
+  margin-top: 60px;
+}
+
+.search-button {
+  margin-left: 20px;
+  height: 33px;
+  width: 65px;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
